@@ -1,7 +1,6 @@
 import configparser
 import json
 import time
-import pprint as pp
 
 times = []
 
