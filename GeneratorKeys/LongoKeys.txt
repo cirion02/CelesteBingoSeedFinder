@@ -1,0 +1,175 @@
+Tier 1
+a : Forsaken City Blue Heart
+b : Forsaken City B-Side
+c : Triple 1-Up
+d : Crossing Dashless
+e : Get a 1-Up in 2A
+
+Tier 2
+a : Jumpless Dashless Awake
+b : Complete Forsaken City with Low Friction
+c : 3 Hearts
+d : 2 Chapters Grabless
+e : Golden Ridge Cassette
+
+Tier 3
+a : Two Blue and Two Red Hearts
+b : 3 B-Sides
+c : Complete Forsaken City with 70% Speed
+d : Complete Forsaken City with 160% Speed
+e : Complete Old Site with Low Friction
+
+Tier 4
+a : Full Clear 1A
+b : Quintuple 1-Up
+c : Winged Golden
+d : Complete 2 Chapters Mirrored
+e : Blue and Red Heart in Golden Ridge
+
+Tier 5
+a : Grabless Cliff Face
+b : Complete Pico-8
+c : Get a 1-Up in 4 Chapters
+d : Complete Intervention without Jumping
+e : Reach Library (3B Checkpoint)
+
+Tier 6
+a : Complete Old Trail with Low Friction
+b : 100% Pico-8
+c : Complete Presidential Suite with Low Friction
+d : Bop Oshiro 10 Times in Two Chapters
+e : All Berries in Start and Depths of 5A (23)
+
+Tier 7
+a : Invisible Huge Mess
+b : Complete Elevator Shaft with Low Friction
+c : Complete 4 Chapters Mirrored
+d : Get 3 Keys in Search
+e : Get 4 Hearts and 4 Cassettes
+
+Tier 8
+a : Invisible Forsaken City
+b : Grabless Elevator Shaft
+c : 4 Chapters Hiccups
+d : Get a 1-Up in 3A
+e : Bop Seekers 10 Times in 2 Chapters
+
+Tier 9
+a : Use 2 Binoculars in 4 Chapters
+b : Complete 3A Start with Low Friction
+c : Invisible Unravelled
+d : Invisible Cliff Face
+e : Complete Start of Mirror Temple with Low Friction
+
+Tier 10
+a : Invisible Start of Celestial Resort
+b : Invisible Old Site
+c : Grabless Huge Mess with the Heart
+d : 6 Hearts
+e : Complete 3 Chapters with Low Friction
+
+Tier 11
+a : Full Clear 8A
+b : Grabless Rock Bottom
+c : Grabless Celestial Resort
+d : Kill 5 Different Seekers
+e : Complete Mirror Temple with Low Friction
+
+Tier 12
+a : Kill 3 Different Seekers in Two Chapters
+b : Blue and Red Heart in Celestial Resort
+c : Get 15 Berries in 4 Chapters
+d : Intro Car in Remembered
+e : 1-Up in 7A
+
+Tier 13
+a : Jumpless Reflection (Checkpoint)
+b : All Berries in Search (6)
+c : Jumpless Resolution
+d : Grabless Mirror Temple
+e : Invisible Mirror Temple
+
+Tier 14
+a : Grabless Repreive
+b : 4 Seeded Berries
+c : 5 Berries in 7 Chapters
+d : Invisible Presidential Suite
+e : Bounce on 10 Snowballs in 2 Chapters
+
+Tier 15
+a : 3000M Grabless
+b : Complete 2 Chapters Invisible
+c : Invisible 1500M
+d : Invisible 2500M
+e : Every Different Seeker Kill (12)
+
+Tier 16
+a : Complete 5 Chapters Grabless
+b : Use 4 Binoculars in 8 Chapters
+c : Full Clear Three Chapters
+d : Invisible 3000M
+e : 69 Berries
+
+Tier 17
+a : Blue Heart in The Summit
+b : Find the Bird's Nest in Epilogue
+c : 20 Berries in 3 Chapters
+d : Invisible Power Source
+e : Complete 5 A-Sides
+
+Tier 18
+a : Complete 5 Chapters with Low Friction
+b : Complete 3000M with no Badeline Orbs
+c : 20 Berries in 4 Chapters
+d : Use 2 Binoculars in 8 Chapters
+e : Get 5 Keys in Power Source
+
+Tier 19
+a : All Winged Berries (11)
+b : Complete 2B Grabless
+c : Complete 5 B-Sides
+d : 35 Berries in 7A
+e : Complete Rooftop Jumpless
+
+Tier 20
+a : Complete 6 Chapters Grabless
+b : Reach Event Horizon
+c : Use All Binoculars in A-Sides (14)
+d : Complete 6 Chapters Invisible
+e : Use All Binoculars in B-Sides (13)
+
+Tier 21
+a : Use 20 Binoculars in Farewell
+b : 10 Hearts
+c : 6 Hearts and 6 Cassettes
+d : Blue and Red Heart in Reflection
+e : The Summit B-Side
+
+Tier 22
+a : Full Clear 7A
+b : 8 Cassettes
+c : 100 Berries
+d : Blue and Red Heart in The Summit
+e : Complete Remembered with Low Friction
+
+Tier 23
+a : 25 Berries in 4 Chapters
+b : Determination Demo Room
+c : 20 Berries in 5 Chapters
+d : Complete 10 Chapters
+e : 4 A-Sides and 4 B-Sides
+
+Tier 24
+a : 12 Hearts
+b : Unlock Reconciliation
+c : Five Full Clears
+d : Complete 6 B-Sides
+e : Grabless 6B
+
+Tier 25
+a : Moon Berry
+b : 125 Berries
+c : All Blue Hearts
+d : 7 Red Hearts
+e : Farewell
+

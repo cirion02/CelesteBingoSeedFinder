@@ -1,0 +1,287 @@
+Tier 1
+a : Talk to Theo in Crossing
+b : Complete 1A Start without jumping
+c : 2 Winged Berries
+d : All Berries in Start of 1A (6)
+e : All Berries in Chasm (5)
+f : Get a 1-Up in 1A
+g : Forsaken City Blue Heart
+h : Complete Chasm without dashing
+i : Complete 1A Start without dashing
+j : Forsaken City Cassette
+
+Tier 2
+a : Get two 1-Ups
+b : 10 Berries in 1A
+c : Talk to Theo in Awake
+d : Take hidden path before Cliff Face
+e : All Berries in Awake (1)
+f : All Berries in Intervention (8)
+g : Complete Awake without jumping
+h : Complete Awake without dashing
+i : All Berries in Start of 2A (9)
+j : Old Site Blue Heart
+
+Tier 3
+a : 2 Hearts
+b : Complete 1 B-Side
+c : Read the Poem in 2A
+d : Talk to Theo in Elevator Shaft
+e : Complete Intervention without jumping
+f : All Berries in Crossing (9)
+g : 10 Berries in 2A
+h : Find Letter and PICO-8 in Huge Mess
+i : Get a 1-Up in 2 Chapters
+j : Grabless Start of 3A
+
+Tier 4
+a : Get a 1-Up in 2A
+b : Reach Old Site in PICO-8
+c : Forsaken City B-Side
+d : All Collectibles in 1A
+e : Complete Crossing without dashing
+f : Old Site Cassette
+g : Complete Shrine without dashing
+h : Grabless Start of 4A
+i : Get a 1-Up in 4A
+j : 2 Cassettes
+
+Tier 5
+a : 20 Berries
+b : Get 5 Berries in PICO-8
+c : Old Site B-Side
+d : Grabless 1A
+e : Grabless 2A
+f : Get three 1-Ups
+g : Get a 1-Up in 5A
+h : All Berries in Elevator Shaft (4)
+i : 5 Berries in 4 Chapters
+j : Hit a Kevin block from all 4 sides
+
+Tier 6
+a : Use 3 Binoculars in B-Sides
+b : Blue and Red Heart in Forsaken City
+c : Blue and Red Heart in Old Site
+d : All Collectibles in 2A
+e : Celestial Resort Blue Heart
+f : All Berries in Presidential Suite (3)
+g : Mirror Temple Cassette
+h : Huge Mess: Chest -> Books -> Towel
+i : Huge Mess: Chest -> Towel -> Books
+
+Tier 7
+a : 2 Hearts and 2 Cassettes
+b : 1 Blue and 1 Red Heart
+c : 2 optional Theo Cutscenes
+d : Get a 1-Up in 3 Chapters
+e : Grabless Huge Mess
+f : Read Diary in Elevator Shaft
+g : Grabless Elevator Shaft
+h : All Berries in Start of 4A (8)
+i : Use all Binoculars in 4A (3)
+j : Grabless Cliff Face
+
+Tier 8
+a : All Berries in Old Trail (7)
+b : Complete 3 A-Sides
+c : 3 Winged Berries
+d : Use 4 Binoculars in B-Sides
+e : Use 5 Binoculars in B-Sides
+f : 5 Berries in 5 Chapters
+g : Huge Mess: Towel -> Books -> Chest
+h : Huge Mess: Books -> Chest -> Towel
+i : Jump on 10 Snowballs
+j : Jump on 15 Snowballs
+
+Tier 9
+a : Grabless Presidential Suite
+b : 2 Seeded Berries
+c : 3 Cassettes
+d : 25 Berries
+e : 30 Berries
+f : Use 2 Binoculars in 2 Chapters
+g : Celestial Resort Cassette
+h : Golden Ridge Blue Heart
+i : Use 5 Binoculars
+j : Use 6 Binoculars
+
+Tier 10
+a : Get 2 Keys in 5B
+b : Golden Ridge Cassette
+c : Huge Mess: Books -> Towel -> Chest
+d : Huge Mess: Towel -> Chest -> Books
+e : Grabless Search
+f : 4 Winged Berries
+g : 5 Winged Berries
+h : Complete Start of 5A without jumping
+i : Talk to Theo in Search
+j : All Berries in Cliff Face (5)
+
+Tier 11
+a : 3 Hearts
+b : 4 Hearts
+c : Use 6 Binoculars in B-Sides
+d : Get 10 Berries in PICO-8
+e : Stun Oshiro 10 times
+f : Stun Oshiro 15 times
+g : Use 1 Binocular in 3 Chapters
+h : Golden Ridge B-Side
+i : Grabless Rescue
+
+Tier 12
+a : Complete 2 B-Sides
+b : 3 Hearts and 3 Cassettes
+c : Grabless Depths
+d : Grabless Unraveling
+e : Get the Key in Depths
+f : All Berries in Rescue (1)
+g : Mirror Temple Blue Heart
+h : All Berries in Start of 5A (12)
+i : All Berries in Start of 3A (11)
+j : All Berries in Shrine (9)
+
+Tier 13
+a : All Berries in Unraveling (1)
+b : All Berries in Search (6)
+c : 4 Cassettes
+d : 2 Blue and 2 Red Hearts
+e : Get the Orb in PICO-8
+f : Get 1 Key in Power Source
+g : Reach Library (3B Checkpoint)
+h : All Berries in Into the Core (1)
+i : Reflection Cutscene in Hollows
+j : Grabless Lake
+
+Tier 14
+a : 35 Berries
+b : 40 Berries
+c : 3 optional Theo Cutscenes
+d : Kill a Seeker
+e : Use 1 Binocular in 4 Chapters
+f : Only top route in Hollows
+g : Get 1 Key in Search
+h : Reflection Cassette
+i : Reflection Blue Heart
+
+Tier 15
+a : 3 Seeded Berries
+b : Complete 2 A-Sides and 2 B-Sides
+c : 4 Hearts and 4 Cassettes
+d : 5 Cassettes
+e : Stun Seekers 10 times
+f : Stun Seekers 15 times
+g : Get 2 Keys in Power Source
+h : Use 5 Binoculars in Farewell
+i : All Berries in Depths (11)
+
+Tier 16
+a : 5 Hearts
+b : 15 Berries in 5A
+c : 20 Berries in 5A
+d : Use 7 Binoculars
+e : Use 8 Binoculars
+f : Get 15 Berries in PICO-8
+g : Celestial Resort B-Side
+h : Only bottom route in Hollows
+i : Mirror Temple B-Side
+
+Tier 17
+a : Don't skip final 4A Cutscene
+b : 6 Winged Berries
+c : 7 Winged Berries
+d : All 4 optional Theo Cutscenes
+e : Kill 2 different Seekers
+f : Get 3 Keys in Power Source
+g : Get 4 Keys in Power Source
+h : 10 Berries in 3 Chapters
+i : Switch to Ice on the right of Into the Core
+
+Tier 18
+a : Complete 3 B-Sides
+b : 3 Blue and 3 Red Hearts
+c : Complete 2 Chapters Grabless
+d : Stun Seekers 20 times
+e : Kill 3 different Seekers
+f : Use 3 Binoculars in 2 Chapters
+g : Blue and Red Heart in Golden Ridge
+h : Grabless Hollows
+i : 15 Berries in 2 Chapters
+j : 15 Berries in 3A
+
+Tier 19
+a : 45 Berries
+b : 50 Berries
+c : Reach Rock Bottom (6B Checkpoint)
+d : Use 2 Binoculars in 3 Chapters
+e : All Berries in Huge Mess (7)
+f : Use all Binoculars in 500M (3)
+g : All Berries in 0M (4)
+h : Get 2 Keys in Search
+i : Get 3 Keys in Search
+
+Tier 20
+a : 8 Winged Berries
+b : 9 Winged Berries
+c : Complete 3 A-Sides and 3 B-Sides
+d : 3 Gems in The Summit
+e : 0M and 500M Gems
+f : Grabless 3A
+g : 10 Berries in 4 Chapters
+h : Grabless Rock Bottom
+i : Easteregg room in Reflection
+
+Tier 21
+a : 6 Hearts
+b : 7 Hearts
+c : Use 9 Binoculars
+d : Use 10 Binoculars
+e : 15 Berries in 4A
+f : 20 Berries in 4A
+g : Grabless 5A
+h : All Berries in 500M (6)
+i : All Berries in 1000M (6)
+
+Tier 22
+a : The Summit Cassette
+b : 65 Berries
+c : 4 Gems in The Summit
+d : 1000M and 1500M Gems
+e : Blue and Red Heart in Celestial Resort
+f : 10 Berries in 5 Chapters
+g : Use 5 Binoculars in The Summit
+h : Use all Binoculars in 1000M (4)
+i : Use 1 Binocular in 5 Chapters
+
+Tier 23
+a : Reflection B-Side
+b : Reach the Intro Car in Remembered
+c : 2000M and 2500M Gems
+d : All Collectibles in 4A
+e : 15 Berries in 3 Chapters
+f : All Berries in 1500M (8)
+g : All Berries in 2000M (8)
+h : Complete PICO-8
+i : Blue and Red Heart in Mirror Temple
+
+Tier 24
+a : Blue and Red Heart in Reflection
+b : All Collectibles in 5A
+c : All Berries in 2500M (8)
+d : All Berries in Hot and Cold (3)
+e : All Collectibles in 3A
+f : 75 Berries
+g : Complete Resolution without jumping
+h : All Berries in Heart of the Mountain (1)
+i : Winged Golden Berry
+
+Tier 25
+a : 15 Berries in 4 Chapters
+b : Empty Space
+c : All Collectibles in 8A
+d : Use 2 Binoculars in 4 Chapters
+e : Clear Core
+f : Get 5 Keys in Power Source
+g : Grabless 6A
+h : Visit the Bird's Nest in Epilogue
+i : 20 Berries in 7A
+
